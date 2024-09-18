@@ -6,14 +6,14 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Adarsh+Mishra!;" />
 </h1>
 
-<h3 align="center">Welcome to my GitHub profile! I'm a passionate Data Science and AI enthusiast, currently diving deep into the world of Machine Learning, Deep Learning, and Generative AI. My journey is focused on transforming raw data into actionable insights and building intelligent systems that make a difference.</h3>
+<h3 >Welcome to my GitHub profile! I'm a passionate Data Science and AI enthusiast, currently diving deep into the world of Machine Learning, Deep Learning, and Generative AI. My journey is focused on transforming raw data into actionable insights and building intelligent systems that make a difference.</h3>
 
 <br/>
 
 <div >
 
 <h2>🔭 About Me<h2>
- 
+
 🎓 Current Role: Data Science and AI Student | Data Analyst Intern at Internpe
 
 💼 Experience: Hands-on experience with data analysis, machine learning models, and NLP projects.
