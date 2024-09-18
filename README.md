@@ -2,7 +2,7 @@
 
 ![MasterHead](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)
 
-<h1 align="center">
+<h1>
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Adarsh+Mishra!;" />
 </h1>
 
@@ -10,7 +10,7 @@
 
 <br/>
 
-<div align="center">
+<div >
 
 <h2>🔭 About Me<h2>
  
@@ -30,7 +30,7 @@
 
  </div>
 
- <div align="center">
+ <div>
 
 <h2>💡 Skills <h2>
  
@@ -45,7 +45,7 @@
  • Version Control: Git, GitHub
 
  </div>
- <div align="center">
+ <div>
      
    <h2>🚀 Projects:</h2>
      
@@ -57,7 +57,7 @@
   
  </div>
  
-<div align="center"> 
+<div> 
   <a href="adarshmishra5511@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
