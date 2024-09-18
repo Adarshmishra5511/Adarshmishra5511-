@@ -99,7 +99,7 @@
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adarshmishra5511&theme=dark&hide_border=false"/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adarshmishra55111&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adarshmishra5511&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
 </div>
 
 <br/>
