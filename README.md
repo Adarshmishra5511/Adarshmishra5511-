@@ -12,7 +12,7 @@
 
 <div>
 
-🔭 About Me
+<h4>🔭 About Me</h4>
 
 <p>🎓 Current Role: Data Science and AI Student | Data Analyst Intern at Internpe</p>
 
