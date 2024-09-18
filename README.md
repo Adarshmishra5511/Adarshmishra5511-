@@ -14,7 +14,7 @@
 
 <h2>🔭 About Me<h2>
 
-🎓 Current Role: Data Science and AI Student | Data Analyst Intern at Internpe
+<p>🎓 Current Role: Data Science and AI Student | Data Analyst Intern at Internpe</p>
 
 💼 Experience: Hands-on experience with data analysis, machine learning models, and NLP projects.
 
