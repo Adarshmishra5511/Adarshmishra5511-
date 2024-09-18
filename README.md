@@ -75,8 +75,9 @@
 <h2 align="center">⚒ Languages-Frameworks-Tools ⚒</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,java,sql,numpy,pandas,matploit,seaborn,machinelearning" />
-    <img src="https://skillicons.dev/icons?i=deeplearning,neuralnetwork,aws,ibmcloud,git,scikitlearn" /><br>
+    
+   <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white" alt="Java" /> <img src="https://img.shields.io/badge/-SQL-CC2927?logo=microsoft-sql-server&logoColor=white" alt="SQL" /> <img src="https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white" alt="NumPy" /> <img src="https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white" alt="Pandas" /> <img src="https://img.shields.io/badge/-Matplotlib-11557C?logoColor=white" alt="Matplotlib" /> <img src="https://img.shields.io/badge/-Seaborn-3776AB?logoColor=white" alt="Seaborn" /> <img src="https://img.shields.io/badge/-Machine%20Learning-F7931E?logoColor=white" alt="Machine Learning" /> <img src="https://img.shields.io/badge/-Deep%20Learning-FF6F00?logoColor=white" alt="Deep Learning" /> <img src="https://img.shields.io/badge/-Neural%20Networks-5A5A5A?logoColor=white" alt="Neural Networks" /> <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white" alt="PyTorch" /> <img src="https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white" alt="AWS" /> <img src="https://img.shields.io/badge/-IBM%20Cloud-1261FE?logo=ibm-cloud&logoColor=white" alt="IBM Cloud" /> <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white" alt="Git" /> <img src="https://img.shields.io/badge/-Scikit%20Learn-F7931E?logo=scikit-learn&logoColor=white" alt="Scikit-learn" />
+
 </div>
 
 <br/>
