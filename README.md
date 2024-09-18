@@ -3,7 +3,7 @@
 ![MasterHead](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Anuj+Tiwari!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Adarsh+Mishra!;" />
 </h1>
 
 <h3 align="center">Welcome to my GitHub profile! I'm a passionate Data Science and AI enthusiast, currently diving deep into the world of Machine Learning, Deep Learning, and Generative AI. My journey is focused on transforming raw data into actionable insights and building intelligent systems that make a difference.</h3>
@@ -15,7 +15,9 @@
 <h2>🔭 About Me<h2>
  
 🎓 Current Role: Data Science and AI Student | Data Analyst Intern at Internpe
+
 💼 Experience: Hands-on experience with data analysis, machine learning models, and NLP projects.
+
 🏆 Achievements: 
 
      • 4th place in IIT Bombay Zonal Competition
@@ -23,6 +25,7 @@
      • 7th place in IIT BHU Annual Techfest Hackathon
     
 🌱 Learning: Advancing my skills in Machine Learning, Data Structures, JavaScript, and AI-based solutions.
+
 📊 Capstone Projects: Sentiment analysis, SMS classification, and more.
 
  </div>
@@ -32,17 +35,26 @@
 <h2>💡 Skills <h2>
  
  • Programming Languages: Python, Java, JavaScript, SQL
+ 
  • Data Science Tools: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
+ 
  • Machine Learning & AI: Supervised and Unsupervised Learning, NLP, Deep Learning (TensorFlow, Keras)
+ 
  • Database Management: MySQL, MongoDB
+ 
  • Version Control: Git, GitHub
 
  </div>
  <div align="center">
+     
    <h2>🚀 Projects:</h2>
+     
   • Advanced SMS Classifier: Built a robust SMS classification model for spam detection using NLP techniques.
+     
   • Sentiment Analysis Project: Analyzed customer feedback data to extract key insights using Natural Language Processing (NLP).
+  
   • Hackathon Projects: Developed innovative solutions during IIT Bombay and IIT BHU competitions.
+  
  </div>
  
 <div align="center"> 
